@@ -1,4 +1,4 @@
-# Jumio Take Home Assignment
+# Minimizing False-Positive Rate On the MNIST dataset
 
 This is the take-home challenge for the AI/ML Engineer internship at Jumio. 
 
